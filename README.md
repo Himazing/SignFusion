@@ -1,4 +1,7 @@
-# SignFusion: AI-Powered Multi-Modal Assistive System for Deaf, Mute, and Blind Individuals
+# SignFusion: AI-Powered Multi-Modal Assistive System for Deaf, Mute and Blind Individuals
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhmrqv7GnqSPqSEdB2-jfhhsEo49RbHFKg_lWdkdcEDlJgN94Rf50Bsc-oU71cMlozHvNK9TyHY7wRKvx_0UdUuFILWxOtiRZZyV7LdPs_SxYirpjaddO2QDUd4lg7SS9JTEgwgmSksib0mY9u14RJ2B4HFX1sqkA4hOhhePe9owdGxCqAHVcDnNrFWJa8=w400-h204" alt="Project Preview" />
+</p>
 
 ## Overview
 SignFusion is a revolutionary AI-powered assistive technology designed to bridge communication gaps for deaf, mute, and blind individuals. This comprehensive system integrates real-time sign language recognition, AI-generated sign avatars, speech-to-text conversion, and smart Braille translation into a unified accessibility platform.
@@ -7,11 +10,18 @@ SignFusion is a revolutionary AI-powered assistive technology designed to bridge
 
 ### For Deaf & Mute Users
 - **Real-Time Sign Language to Text & Speech Conversion**
-  - Uses computer vision (OpenCV, TensorFlow.js, MediaPipe) to detect hand gestures
+  - Uses computer vision to detect hand gestures
   - Converts sign language into spoken words and text in real-time
 - **Text & Speech to AI-Generated Sign Language Avatar**
   - Creates human-like avatars that animate sign language
   - Works across digital platforms (YouTube, Netflix, social media)
+- **Media Access On All Websites**
+  - Facilitates group conversations in meetings and classrooms
+  - Detect the presence of subtitles or closed captions (CC)
+  - Extract the text from subtitles in real time
+  - Translate the text into sign language using NLP
+  - Display a 3D avatar on the screen that performs the sign language gestures, synced with the video playback
+
 - **Multi-Person Communication Mode**
   - Facilitates group conversations in meetings and classrooms
 - **Global Sign Language Translator**
