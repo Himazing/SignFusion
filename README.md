@@ -1,4 +1,5 @@
-# SignFusion: AI-Powered Multi-Modal Assistive System for Deaf, Mute and Blind Individuals
+# SignFusion: “Fingers Speak, AI Listens”  
+# AI-Powered Multi-Modal Assistive System for Deaf & Mute
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhmrqv7GnqSPqSEdB2-jfhhsEo49RbHFKg_lWdkdcEDlJgN94Rf50Bsc-oU71cMlozHvNK9TyHY7wRKvx_0UdUuFILWxOtiRZZyV7LdPs_SxYirpjaddO2QDUd4lg7SS9JTEgwgmSksib0mY9u14RJ2B4HFX1sqkA4hOhhePe9owdGxCqAHVcDnNrFWJa8=w400-h204" alt="Project Preview" />
 </p>
