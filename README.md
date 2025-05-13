@@ -1,55 +1,79 @@
-# SignFusion: “Fingers Speak, AI Listens”  
-# AI-Powered Multi-Modal Assistive System for Deaf & Mute
+# ✨ SignFusion: “Fingers Speak, AI Listens”
+
+### 🤖 AI-Powered Multi-Modal Assistive System for Deaf, Mute & Blind Individuals
+
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhmrqv7GnqSPqSEdB2-jfhhsEo49RbHFKg_lWdkdcEDlJgN94Rf50Bsc-oU71cMlozHvNK9TyHY7wRKvx_0UdUuFILWxOtiRZZyV7LdPs_SxYirpjaddO2QDUd4lg7SS9JTEgwgmSksib0mY9u14RJ2B4HFX1sqkA4hOhhePe9owdGxCqAHVcDnNrFWJa8=w400-h204" alt="Project Preview" />
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhmrqv7GnqSPqSEdB2-jfhhsEo49RbHFKg_lWdkdcEDlJgN94Rf50Bsc-oU71cMlozHvNK9TyHY7wRKvx_0UdUuFILWxOtiRZZyV7LdPs_SxYirpjaddO2QDUd4lg7SS9JTEgwgmSksib0mY9u14RJ2B4HFX1sqkA4hOhhePe9owdGxCqAHVcDnNrFWJa8=w400-h204" alt="Project Preview" style="width:100%; height:auto;" />
 </p>
 
-## Overview
-SignFusion is a revolutionary AI-powered assistive technology designed to bridge communication gaps for deaf, mute, and blind individuals. This comprehensive system integrates real-time sign language recognition, AI-generated sign avatars, speech-to-text conversion, and smart Braille translation into a unified accessibility platform.
 
-## Key Features
+## 🌍 Overview
 
-### For Deaf & Mute Users
-- **Real-Time Sign Language to Text & Speech Conversion**
-  - Uses computer vision to detect hand gestures
-  - Converts sign language into spoken words and text in real-time
-- **Text & Speech to AI-Generated Sign Language Avatar**
-  - Creates human-like avatars that animate sign language
-  - Works across digital platforms (YouTube, Netflix, social media)
-- **Media Access On All Websites**
-  - Facilitates group conversations in meetings and classrooms
-  - Detect the presence of subtitles or closed captions (CC)
-  - Extract the text from subtitles in real time
-  - Translate the text into sign language using NLP
-  - Display a 3D avatar on the screen that performs the sign language gestures, synced with the video playback
-
-- **Multi-Person Communication Mode**
-  - Facilitates group conversations in meetings and classrooms
-- **Global Sign Language Translator**
-  - Converts between ISL, ASL, BSL and other sign languages
-
-### For Blind Users
-- **AI-Powered Smart Braille Device**
-  - Converts speech, text, and images into real-time Braille output
-  - Features emotion detection through haptic feedback
-  - Provides environmental sound awareness
-- **AI-Based Image-to-Braille Conversion**
-  - Describes visual content through tactile feedback
-- **Navigation Assistance**
-  - Uses LiDAR and AI for obstacle detection
-
-## Technical Architecture
-
-### Software Stack
-- **Frontend**: React.js (Web), React Native (Mobile)
-- **Backend**: Node.js with Express.js
-- **Database**: MongoDB + Firebase
-- **AI/ML**: TensorFlow.js, Python (for backend models)
-- **Sign Recognition**: OpenCV + MediaPipe
-- **APIs**: WebRTC, Google Speech-to-Text, Deep Learning NLP models
+**SignFusion** is a groundbreaking assistive tech project that empowers **deaf, mute, and blind individuals** to communicate seamlessly with the world. By blending **AI**, **Computer Vision**, **Speech Processing**, and **Braille Technology**, it serves as a **unified accessibility platform** designed for inclusivity and independence.
 
 
-## Repository Structure
+## 🚀 Key Features
+
+### 🧏‍♀️ For Deaf & Mute Users
+
+* ✋ **Real-Time Sign Language to Text & Speech**
+
+  * Detects hand gestures using Computer Vision (MediaPipe + OpenCV)
+  * Converts signs into **text and speech instantly**
+
+* 🧠 **Text & Speech to AI Sign Avatar**
+
+  * AI-driven avatars perform sign language gestures dynamically
+  * Compatible across digital platforms (YouTube, Netflix, Social Media)
+
+* 🌐 **Smart Media Accessibility**
+
+  * Detects subtitles & closed captions (CC)
+  * Extracts, translates & animates captions via AI
+  * Translate the text into sign language using NLP
+  * Syncs a 3D avatar performing signs alongside video content
+
+* 🗣 **Multi-Person Communication Mode**
+
+  * Supports real-time group conversations for inclusive interactions
+
+* 🌎 **Global Sign Language Translator**
+
+  * Translates between **ISL**, **ASL**, **BSL** and more
+
+
+
+### 🧑‍🦯 For Blind Users
+
+* 🧠 **AI-Powered Smart Braille Device**
+
+  * Converts **speech, text, and images** into **tactile Braille output**
+  * Detects emotional tone and provides haptic feedback
+  * Offers environmental awareness through AI-based sound recognition
+
+* 🖼️ **AI-Based Image-to-Braille Translation**
+
+  * Converts visuals to descriptive Braille feedback
+
+* 🧭 **Navigation Assistance**
+
+  * Real-time obstacle detection using **LiDAR + AI models**
+
+---
+
+## 🏗️ Technical Architecture
+### 🛠️ Tech Stack
+
+* **Frontend**: React.js (Web) ⚛️, React Native (Mobile) 📱
+* **Backend**: Node.js + Express.js 🔧
+* **Database**: MongoDB + Firebase ☁️
+* **AI/ML**: TensorFlow\.js, Python 🧠
+* **Computer Vision**: OpenCV, MediaPipe 🖐️
+* **APIs**: Google Speech-to-Text, WebRTC, Deep Learning NLP 🗣️
+
+---
+
+## 📁 Repository Structure
 
 ```
 SignFusion/
@@ -93,76 +117,99 @@ SignFusion/
 └── tests/                    # Test suites
     ├── unit/                 # Unit tests
     └── integration/          # Integration tests
+
 ```
 
-## Getting Started
+## 🧰 Getting Started
 
-### Prerequisites
-- Node.js (v16+)
-- Python (v3.8+)
-- Firebase account
-- Google Cloud credentials for speech APIs
+### ✅ Prerequisites
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/SignFusion.git
-   cd SignFusion
-   ```
+* Node.js (v16+)
+* Python (v3.8+)
+* Firebase Project
+* Google Cloud credentials for Speech API
 
-2. Install backend dependencies:
-   ```bash
-   cd backend
-   npm install
-   ```
+### ⚙️ Installation
 
-3. Install frontend dependencies:
-   ```bash
-   cd ../frontend
-   npm install
-   ```
+```bash
+# Clone the repository
+git clone https://github.com/your-username/SignFusion.git
+cd SignFusion
 
-4. Set up environment variables (create `.env` files in each directory as needed)
+# Install backend dependencies
+cd backend
+npm install
 
-5. Start the development servers:
-   ```bash
-   # In backend directory
-   npm run dev
-   
-   # In frontend directory
-   npm start
-   ```
+# Install frontend dependencies
+cd ../frontend
+npm install
 
-## Development Roadmap
+# Configure .env in each relevant folder
+```
 
-### Phase 1: Core Functionality (Months 1-6)
-- [ ] Complete sign language recognition models
-- [ ] Implement basic AI avatar system
-- [ ] Develop speech-to-text/text-to-speech integration
-- [ ] Create initial browser extension prototype
+### ▶️ Start Development Servers
 
-### Phase 2:System Optimization (Months 7-12)
-- [ ] Improve AI model accuracy
-- [ ] Enhance avatar expressiveness
-- [ ] Optimize for low-latency performance
-- [ ] Conduct user testing with target communities
+```bash
+# Start Backend
+npm run dev
 
-### Phase 3: Ongoing
+# Start Frontend
+npm start
+```
 
+---
 
-## Contributing
-We welcome contributions from the community! 
+## 🛤️ Development Roadmap
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Phase 1: 🚧 Core Functionality (Months 1–6)
 
-## Team
-- Nitish Kumar (AI Specialist)
-- Himanshu Kumar (Tech Lead)
-- Jyoti Mishra (Frontend Developer)
-- Harsh Gupta (AI Specialist)
-- Dr. Saurabh Sharma (Advisor)
-- Ms. Mandeep Kaur (Advisor)
+* [ ] Sign Language Recognition Models
+* [ ] AI Avatar MVP
+* [ ] Speech/Text to Sign Integration
+* [ ] Browser Extension v1
 
+### Phase 2: 🔧 System Optimization (Months 7–12)
 
-This repository represents an ambitious project to create truly inclusive communication technology. We believe SignFusion has the potential to transform lives by breaking down barriers for individuals with hearing, speech, and visual impairments.
+* [ ] Improve AI Accuracy
+* [ ] Enhance Avatar Expression
+* [ ] Optimize for Low Latency
+* [ ] Conduct Real-World User Testing
+
+### Phase 3: 🌐 Scaling & Community Adoption
+
+* [ ] Multilingual Support
+* [ ] Real-Time Video Call Integration
+* [ ] Global Accessibility Partnerships
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from developers, designers, researchers, and accessibility advocates.
+Feel free to fork the repo, raise issues, or submit a pull request! 💡
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for more info.
+
+---
+
+## 👨‍💻 Team SignFusion
+
+| Name                  | Role               |
+| --------------------- | ------------------ |
+| 🧠 Nitish Kumar       | AI Specialist      |
+| 👨‍💻 Himanshu Kumar     | Tech Lead          |
+| 🎨 Jyoti Mishra       | Frontend Developer |
+| 🤖 Harsh Gupta        | AI Specialist      |
+| 🎓 Dr. Saurabh Sharma | Academic Advisor   |
+| 🎓 Ms. Mandeep Kaur   | Academic Advisor   |
+
+---
+
+> “We believe **SignFusion** can transform lives by removing communication barriers and promoting inclusivity for all.” 🌐💙
+
+---
