@@ -3,7 +3,15 @@
 ### 🤖 AI-Powered Multi-Modal Assistive System for Deaf, Mute & Blind Individuals
 
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhmrqv7GnqSPqSEdB2-jfhhsEo49RbHFKg_lWdkdcEDlJgN94Rf50Bsc-oU71cMlozHvNK9TyHY7wRKvx_0UdUuFILWxOtiRZZyV7LdPs_SxYirpjaddO2QDUd4lg7SS9JTEgwgmSksib0mY9u14RJ2B4HFX1sqkA4hOhhePe9owdGxCqAHVcDnNrFWJa8=w400-h204" alt="Project Preview" style="width:100%; height:auto;" />
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjRVRfEnw9eb-1LVVIS8ZGOnvKmyLJbubYPpYmq_tBFHJPLttD6jyfCpzCWGL1AyYLRn_VQnjA2t2ZQyzYz5pb6IT_cCqrbDNK_Zea9xr7YliaouFrFvd6eQfFzJTte6T-GE0Kn2N7YH6mw_Ndqef4jWCBbM208fIfETOzf3d51XYdhuvo7AC0U3YwnsT4" alt="Project Preview" style="width:100%; height:auto;" />
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgVx0ZvL88BHE8ElF_n0UBh0jn3VQgSw1cLAI0QmYl5OdhTDX-VXyXz8U41NhT7B8JG-8nTnd_vvSbPxq1Lwp47Ov6b-J4xmmxw00kXgsuJXSbqPW5ha0Qy8nnwfelHbnidDyal2XgMBwR2HB238Z1A5ZwqerpQ3oVDJQaAkznE6iPY0m42DO3Weza1xuU=w641-h337" alt="Project Preview" style="width:100%; height:auto;" />
+
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgs4lUqXGRFdCLxRAaKwfZOAbX_RadJhdrHufXGaCnb0sKz-c89CDPggVvD3bPozuyVC7LsSwZjNM76Fy5INbI3g2xJ0g0ppqk13RVoiEf3OOajYkg0zccLpLiu6VS3ScGo1r3I7BBhjBkNxai1ZadDd7d7lqxc7BEIuVB57HtSnfLLeXBj2oWON0aYgqw=s16000" alt="Project Preview" style="width:100%; height:auto;" />
+
+   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhRg8WNZGMCpFT-15uiDp2AjkEQPZ7mxOL9LuYG5I_7dKaMVREiPfzuaHobff8V7HtfIYs73KJjOpawpy0ihnjaKcVujtoXEvtAQk58o2o1-idIiYdMJUU9xnWFGnf7XeYv0vyI-0WiMhS6t_bwqRMwu9BrPGahRqEhJBykRlPN8Mek_j2n25b-bG3pC4I" alt="Project Preview" style="width:100%; height:auto;" />
+   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgcwt5FvfvkKS03KeziIlIy_-w1lnVdeK6F4pZR5UxeDcNGr46WYl582Q_JcDL_Iqk9KPKgVrfBka0QioOUXZY06yU5Hb2g4cxVU4_LhSm8r42f2bYB9GYh3fvzN14I5RafZJ3Bf545JEpcmdVBSPcTwPc41yiHgVAUzoc4K2n9QBiZuO8kvEPVEyPpMCc" alt="Project Preview" style="width:100%; height:auto;" />
+
+   
 </p>
 
 
